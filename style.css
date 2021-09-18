@@ -11,3 +11,16 @@ h3{
     font-size: 16px;
     color: red;
 }
+
+.rectangle{
+    width: 300px;
+    height: 600px;
+    background-color: aquamarine;
+}
+
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color: brown;
+}
